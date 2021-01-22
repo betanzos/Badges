@@ -5,7 +5,7 @@
 
 `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
 
-### GitHub Actions
+## GitHub Actions
 
 #### Workflow status
 ![CI](https://github.com/betanzos/check-commit-exist/workflows/CI/badge.svg)
